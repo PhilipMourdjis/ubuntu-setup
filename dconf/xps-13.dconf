@@ -1,3 +1,7 @@
+[apps/seahorse/listing]
+item-filter='any'
+keyrings-selected=['openssh:///home/philip/.ssh']
+
 [apps/seahorse/windows/key-manager]
 height=476
 width=600
@@ -9,6 +13,14 @@ launch-time=int64 1656887216
 show-details=true
 window-height=400
 window-width=593
+
+[ca/desrt/dconf-editor]
+saved-pathbar-path='/org/gnome/shell/extensions/dash-to-dock/hide-delay'
+saved-view='/org/gnome/shell/extensions/dash-to-dock/'
+show-warning=false
+window-height=500
+window-is-maximized=false
+window-width=540
 
 [com/ubuntu/update-notifier]
 release-check-time=uint32 1656887207
@@ -115,11 +127,32 @@ favorite-apps=['org.gnome.Nautilus.desktop', 'code.desktop', 'google-chrome.desk
 welcome-dialog-last-shown-version='42.0'
 
 [org/gnome/shell/extensions/dash-to-dock]
+animation-time=0.050000000000000003
+dash-max-icon-size=64
 dock-fixed=false
 dock-position='BOTTOM'
 extend-height=false
-show-mounts=false
+height-fraction=1.0
+hide-delay=0.0
+isolate-monitors=false
+isolate-workspaces=true
+max-alpha=0.75
+min-alpha=0.5
+multi-monitor=false
+pressure-threshold=0.0
+require-pressure-to-show=false
+running-indicator-dominant-color=true
+running-indicator-style='CILIORA'
+scroll-action='cycle-windows'
+shortcut-timeout=0.0
+show-apps-at-top=true
+show-delay=0.0
+show-favorites=true
+show-mounts=true
+show-running=true
 show-trash=false
+show-windows-preview=true
+transparency-mode='DYNAMIC'
 
 [org/gnome/shell/extensions/ding]
 keep-arranged=true
