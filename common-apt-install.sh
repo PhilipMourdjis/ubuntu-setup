@@ -1,4 +1,4 @@
-sudo apt install arc-theme chrome-gnome-shell build-essential gnome-tweaks htop git git-lfs paper-icon-theme vlc gnome-shell-extensions
+sudo apt install arc-theme chrome-gnome-shell build-essential gnome-tweaks htop git git-lfs paper-icon-theme vlc gnome-shell-extensions dconf-editor
 
 # Following from websites: discord code google-chrome-stable steam 
 
