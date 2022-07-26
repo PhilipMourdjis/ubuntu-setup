@@ -1,0 +1,29 @@
+[legacy]
+schema-version=uint32 3
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(24,24,24)'
+background-transparency-percent=8
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-background-color='rgb(192,221,255)'
+cursor-blink-mode='on'
+cursor-colors-set=true
+cursor-foreground-color='rgb(255,255,255)'
+cursor-shape='ibeam'
+default-size-rows=40
+exit-action='hold'
+font='DejaVu Sans Mono 12'
+foreground-color='rgb(240,240,240)'
+highlight-background-color='rgb(74,133,203)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(255,255,255)'
+palette=['rgb(192,255,226)', 'rgb(255,192,192)', 'rgb(192,255,192)', 'rgb(255,226,192)', 'rgb(192,226,255)', 'rgb(255,192,226)', 'rgb(192,192,255)', 'rgb(255,255,192)', 'rgb(160,255,211)', 'rgb(255,160,160)', 'rgb(160,255,160)', 'rgb(255,211,160)', 'rgb(160,211,255)', 'rgb(255,160,211)', 'rgb(160,160,255)', 'rgb(255,255,160)']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-system-font=true
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Dark'
