@@ -11,7 +11,9 @@ sudo apt install \
     gnome-shell-extensions \
     dconf-editor \
     gthumb \
-    python3-pip
+    python3-pip \
+    ninja-build \
+    ccache
 
 # Following from websites: discord code google-chrome-stable steam 
 
