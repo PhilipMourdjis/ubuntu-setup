@@ -1,15 +1,10 @@
 sudo apt install \
-    arc-theme 
-    chrome-gnome-shell \
+    nano \
     build-essential \
-    gnome-tweaks \
     htop \
     git \
     git-lfs \
-    paper-icon-theme \
     vlc \
-    gnome-shell-extensions \
-    dconf-editor \
     gthumb \
     python3-pip \
     ninja-build \
